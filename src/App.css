@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.invalidBg {
+  background-color: rgb(241, 155, 172);
+}
+.student-details {
+  background-color: rgb(188, 188, 236);
+  border-color: rgb(238, 236, 236);
+}
+.image {
+  width: 200px
+}
+.card-style {
+  box-shadow: 0 4px 8px 0 rgb(188, 188, 236);
+  transition: 0.3s;
+}
+.card-style:hover {
+  box-shadow: 0 8px 16px 0 rgb(188, 188, 236);
+}
+.font {
+  font-family: 'Lobster', cursive !important; 
+}
